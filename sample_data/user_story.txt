@@ -1,0 +1,8 @@
+User Story – US001
+Title: Password Reset
+
+User Story:
+
+As a registered customer, I want to reset my password using my registered email address so that I can regain access to my account if I forget my password.
+
+Business objective: Allow customers who have forgotten their passwords to securely regain access to their accounts.
